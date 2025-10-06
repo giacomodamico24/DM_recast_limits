@@ -4,7 +4,7 @@ This repository contains the Jupyter notebooks and input data used to reproduce 
 
 > *G. D’Amico, M. Doro, and M. De Caria, “Recasting and Forecasting Dark Matter Limits Without Raw Data: A Generalized Algorithm for Gamma-Ray Telescopes” (submitted to Physics of the Dark Universe, 2025).*
 
-[**Browse the API Docs**](https://giacomodamico24.github.io/DM_recast_limits/docs/html)
+[**Browse the API Docs**](https://giacomodamico24.github.io/DM_recast_limits/docs/html/index.html)
 
 ---
 
