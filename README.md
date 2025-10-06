@@ -8,8 +8,8 @@ This repository contains the Jupyter notebooks and input data used to reproduce 
 
 ## 📘 Description
 
-The notebooks in this repository demonstrate the use of the **recasting and forecasting framework** introduced in the paper for dark matter (DM) indirect detection studies.  
-They allow users to reproduce **Figures 5 and 6** from the manuscript, corresponding to the validation of the recasting method using published MAGIC results and CTAO forecasts.
+The notebooks in this repository demonstrate the use of the **recasting framework** introduced in the paper “Recasting and Forecasting Dark Matter Limits Without Raw Data: A Generalized Algorithm for Gamma-Ray Telescopes”.
+They allow users to reproduce **Figures 5 and 6** from the manuscript, corresponding to the validation of the recasting method using published MAGIC, Fermi-LAT, LHAASO upper limits o DM and the projected CTAO upper limits from the Galactic Center.
 
 Each subfolder corresponds to a specific gamma-ray instrument:
 - **`RECAST_MAGIC`** – Recasting MAGIC Collaboration limits for the Coma Berenices dSph.  
