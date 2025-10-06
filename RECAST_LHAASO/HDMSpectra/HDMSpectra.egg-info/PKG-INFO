@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: HDMSpectra
+Version: 1.0
+Summary: Dark Matter Spectra from the Electroweak to the Planck Scale
+Home-page: https://github.com/nickrodd/HDMSpectra
+Author: Nicholas L Rodd
+Author-email: nrodd@berkeley.edu
+License: MIT
+License-File: LICENSE.rst
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: h5py
+Requires-Dist: jupyter
+Requires-Dist: scipy
+Requires-Dist: six
