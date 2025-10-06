@@ -1,0 +1,11 @@
+LICENSE.rst
+README.md
+setup.py
+HDMSpectra/HDMSpectra.py
+HDMSpectra/__init__.py
+HDMSpectra/pclid.py
+HDMSpectra.egg-info/PKG-INFO
+HDMSpectra.egg-info/SOURCES.txt
+HDMSpectra.egg-info/dependency_links.txt
+HDMSpectra.egg-info/requires.txt
+HDMSpectra.egg-info/top_level.txt
