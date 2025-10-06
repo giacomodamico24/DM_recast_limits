@@ -2,7 +2,7 @@
 
 This repository contains the Jupyter notebooks and input data used to reproduce part of the analysis presented in:
 
-> *G. D’Amico, M. Doro, and collaborators, “Forecasting and Recasting Dark Matter Annihilation Limits” (submitted to Physics of the Dark Universe, 2025).*
+> *G. D’Amico, M. Doro, and M. De Caria, “Forecasting and Recasting Dark Matter Annihilation Limits” (submitted to Physics of the Dark Universe, 2025).*
 
 ---
 
@@ -25,9 +25,10 @@ Each subfolder corresponds to a specific gamma-ray instrument:
 All notebooks require the following Python packages:
 
 ```bash
-numpy
-scipy
-matplotlib
-astropy
-gammapy
+numpy (preferably version 1.26)
+scipy (preferably version 5.11)
+matplotlib (preferably version 3.8)
+astropy (preferably version 5.1)
+gammapy version 1.2
+
 
